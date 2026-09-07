@@ -1,0 +1,5 @@
+print("My name is Jeremiah.")
+print("I am 16 years old.")
+print("My favorite game is Roblox")
+print("My favorite food is Burgers")
+print("I'm learning to code because I want to make scripts, and programs for games.")
